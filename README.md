@@ -172,7 +172,7 @@ pip install opencv-python-headless tensorflow pyniryo numpy
 
 - [AniketMunde](https://github.com/AniketMunde)
 - [Nirzar-shah-11](https://github.com/Nirzar-shah-11)
--[AniketDeshpande-23](https://github.com/AniketDeshpande-23)
+- [AniketDeshpande-23](https://github.com/AniketDeshpande-23)]
 
 ---
 
